@@ -106,7 +106,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #ff8a1d;
+  color: #4108cf;
 }
 
 .header_section .header_bottom {
@@ -261,7 +261,7 @@ a:focus {
 }
 
 .quote_btn-container a:hover {
-  color: #ff8a1d;
+  color: #0929c9;
 }
 
 /*end header section*/
@@ -320,7 +320,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff8a1d;
+  color: #320bc0;
 }
 
 .slider_section .img-box img {
@@ -475,7 +475,7 @@ a:focus {
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff8a1d;
+  color: #240dbc;
 }
 
 .service_section {
@@ -754,7 +754,7 @@ a:focus {
 }
 
 .info_section a:hover {
-  color: #ff8a1d;
+  color: #1b11d7;
 }
 
 .info_items a {
@@ -800,7 +800,7 @@ a:focus {
 }
 
 .info_items .item:hover .img-box {
-  background-color: #ff8a1d;
+  background-color: #1393dd;
 }
 
 .info_items {
