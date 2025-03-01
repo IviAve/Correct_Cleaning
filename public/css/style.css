@@ -4,6 +4,13 @@ body {
   color: #040000;
 }
 
+
+.hero_area {
+  position: relative;
+  background-color: #d1e3ff;
+}
+
+
 .layout_padding {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -665,6 +672,9 @@ a:focus {
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
+
+
+
 
 .contact_section input::-webkit-input-placeholder {
   color: #737272;
